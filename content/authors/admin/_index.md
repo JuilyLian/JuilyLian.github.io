@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alex Johnson
+title: Xiaoli Lian
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Xiaoli
+last_name: Lian
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: She
 
 # Status emoji
 status:
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Softaware Engineering/AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Beihang University
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -49,13 +49,12 @@ profiles:
 
 interests:
   - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
+  - Software Enginering
   - AI Ethics
 
 education:
   - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+    institution: Beihang University
     date_start: 2015-09-01
     date_end: 2019-06-30
     summary: |
@@ -133,9 +132,9 @@ skills:
         icon: book-open
 
 languages:
-  - name: English
+  - name: Chinese
     percent: 100
-  - name: Spanish
+  - name: English
     percent: 50
 
 # Awards.
@@ -143,27 +142,21 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: ACM SIGSOFT Distinguished Paper Award
+    url: https://conf.researchr.org/track/ase-2024/ase-2024-research?#event-overview
+    date: '2024-11-01'
+    awarder: ASE'24
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
+      Awarded for design rationale extraction and usage for intelligent code maintenance.
+  - title: IEEE TCSE Distinguished Paper Award
+    url: https://www.nsf.gov/](https://conf.researchr.org/track/RE-2024/RE-2024-Research-Papers?
+    date: '2024-06-28'
+    awarder: RE'24
     icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Awarded for automated requirements specification completion.
+    
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Xiaoli Lian is a lecturer 
